@@ -1,0 +1,17 @@
+P024/Cafe Latte/7.2/7.7/8.4
+P025/Cafe Americano/12.2/12.9/13.9
+P026/Mocha/12.2/12.9/13.9
+P027/Cappuccino/12.2/12.9/13.9
+P028/Frappuccino/12.2/12.9/13.9
+P029/White Coffee/10.7/11.4/12.4
+P030/Nescafe/11.2/11.9/12.9
+P031/Orange Juice/11.2/11.9/12.9
+P032/Apple Juice/11.2/11.9/12.9
+P033/Watermelon Juice/11.2/11.9/12.9
+P034/Milo/11.8/12.5/13.5
+P035/Tea/10.2/10.9/11.9
+P036/Coca Cola/9.5/10.2/10.9
+P037/Sprite/9.5/10.2/10.9
+P038/Barley/9.3/10.0/10.7
+P039/Longan/11.0/11.7/12.4
+P040/Honey Lemon/11.0/11.7/12.4

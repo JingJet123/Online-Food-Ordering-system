@@ -1,0 +1,12 @@
+RES15201/05-08-2021/T05/6/Rectangle Size/9.0/false
+RES15201/05-08-2021/T08/8/Large-Round/12.0/false
+RES15202/15-08-2021/T01/4/Square Size/7.0/false
+RES15202/15-08-2021/T02/4/Square Size/9.0/false
+RES15202/15-08-2021/T04/6/Rectangle Size/9.0/false
+RES15203/26-08-2021/T11/10/VIP-Room/20.0/false
+RES15204/04-09-2021/T02/4/Square Size/7.0/false
+RES15205/12-09-2021/T02/4/Square Size/7.0/false
+RES15205/12-09-2021/T08/8/Large-Round/12.0/false
+RES15206/23-09-2021/T02/4/Square Size/7.0/false
+RES15206/23-09-2021/T08/8/Large-Round/12.0/false
+RES15206/23-09-2021/T10/8/Large-Round/12.0/false

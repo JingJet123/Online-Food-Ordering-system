@@ -1,0 +1,12 @@
+T01/4/Square Size/7.0/true
+T02/4/Square Size/7.0/true
+T03/6/Rectangle Size/9.0/false
+T04/6/Rectangle Size/9.0/true
+T05/6/Rectangle Size/9.0/true
+T06/6/Rectangle Size/9.0/false
+T07/8/Large-Round/12.0/false
+T08/8/Large-Round/12.0/true
+T09/8/Large-Round/12.0/true
+T10/8/Large-Round/12.0/true
+T11/10/VIP-Room/20.0/true
+T12/10/VIP-Room/20.0/false

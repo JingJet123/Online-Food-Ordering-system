@@ -1,0 +1,23 @@
+P001/Nasi Lemak Ayam Rendang/22.9
+P002/Nasi Lemak Ayam Goreng/21.9
+P003/Butter Cheese Chicken/31.9
+P004/Chicken Maryland/25.9
+P005/Sizzling Chicken Chop/25.9
+P006/Roasted Chicken Thigh/25.9
+P007/Lamb Chop With Black Pepper/37.9
+P008/Fish & Chips Combo/35.9
+P009/Grilled Fish With BBQ Sauce/31.9
+P010/Grilled Fish With Teriyaki/31.9
+P011/Spaghetti Cabonara Seafood/36.9
+P012/Spaghetti Aglio E'Olio/27.9
+P013/Spaghetti Arrabiata/27.9
+P014/Spaghetti Fish Fillet/30.9
+P015/Spaghetti Chicken Napolean/30.9
+P016/Cheese Lover Pizza/27.9
+P017/Pepperoni Pizza/27.9
+P018/Veggies Deluxe Pizza/27.9
+P019/Mushroom Soup/16.9
+P020/Salad Tuna/17.9
+P021/Club Sandwich/17.9
+P022/Chicken Nuggets Fries/19.9
+P023/Potato Widges/16.9

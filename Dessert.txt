@@ -1,0 +1,10 @@
+P041/Fruit Salad/14.9
+P042/Pancake/14.9
+P043/Banana Split/13.5
+P044/Waffles Ice Cream/13.5
+P045/Mapple Apple Pie/12.2
+P046/Brownie Pops/15.3
+P047/Brownie Lava Cake/16.9
+P048/Red Velvet Cake/16.9
+P049/Chocolate Cake/15.9
+P050/Blueberry Muffin/14.5
